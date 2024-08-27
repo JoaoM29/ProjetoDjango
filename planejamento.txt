@@ -1,0 +1,24 @@
+- homepage
+    - email
+    - username
+    - senha
+    - filmes ja vistos
+    - editar perfil
+
+- filmes/series
+    -thumb
+    -titulo
+    -descricao
+    -categoria
+    - qtd views
+    - data de criacao
+    - episodios
+        -videos
+        -titulo
+
+- barra de pesquisa
+
+- super usuario
+joaomiguel
+joaomiguelp@hotmail.com
+12345678
